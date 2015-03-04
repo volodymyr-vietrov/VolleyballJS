@@ -1,9 +1,14 @@
 
 public class MainHelloWorld {
 
+	private static void printHelloMessage() {
+		System.out.println("printing : Hello World!");
+	}
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello World");
+		printHelloMessage();
+		printHelloMessage();
+		printHelloMessage();
 	}
 
 }
