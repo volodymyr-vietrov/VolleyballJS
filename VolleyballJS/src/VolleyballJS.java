@@ -13,5 +13,9 @@ public class VolleyballJS {
 	public static void doSomething(){
 		System.out.println(" >> VolleyballJS.doSomething() called");
 	}
+	
+	public static void doSomething_new(){
+		System.out.println(" >> VolleyballJS.doSomething_new() called");
+	}
 
 }
