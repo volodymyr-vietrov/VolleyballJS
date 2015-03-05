@@ -7,7 +7,7 @@ public class VolleyballJS {
 		System.out.println("This is updated VolleyballJS.main() from local Eclipse");
 		System.out.println("This is updated VolleyballJS.main() from local Eclipse one more time");
 		doSomething2();
-		doSomething2();
+		doSomething_new();
 	}
 	
 	public static void doSomething2(){
