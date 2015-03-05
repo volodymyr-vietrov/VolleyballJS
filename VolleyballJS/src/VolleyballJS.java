@@ -8,7 +8,6 @@ public class VolleyballJS {
 		System.out.println("This is updated VolleyballJS.main() from local Eclipse one more time");
 		doSomething();
 		doSomething();
-		doSomething();
 	}
 	
 	public static void doSomething(){
