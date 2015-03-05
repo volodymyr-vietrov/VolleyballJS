@@ -6,11 +6,11 @@ public class VolleyballJS {
 		System.out.println("This is updated VolleyballJS.main()");
 		System.out.println("This is updated VolleyballJS.main() from local Eclipse");
 		System.out.println("This is updated VolleyballJS.main() from local Eclipse one more time");
-		doSomething();
-		doSomething();
+		doSomething2();
+		doSomething2();
 	}
 	
-	public static void doSomething(){
+	public static void doSomething2(){
 		System.out.println(" >> VolleyballJS.doSomething() called");
 	}
 	
